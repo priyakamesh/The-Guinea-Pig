@@ -1,0 +1,14 @@
+body {
+  background-color: tomato;
+
+}
+.boldHeader {
+  font-weight: bold;
+}
+.italicHeader {
+  font-weight: bold;
+  font-style: italic;
+}
+.blockLevel {
+  display: block;
+}
